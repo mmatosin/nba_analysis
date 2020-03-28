@@ -31,7 +31,6 @@ def get_player_names(save=False):
 
         # open + read the html for each letter
         url = f"https://www.basketball-reference.com/players/{letter}/"
-        # print(url)
         webpage = urlopen(url)
         html = BeautifulSoup(webpage)
 
