@@ -69,3 +69,10 @@ pattoju01 , Justin Patton, error in playoff game logs
 paytoga02 , Gary Payton, error in playoff game logs 
 portemi01 , Michael Porter, error in playoff game logs 
 poythal01 , Alex Poythress, error in playoff game logs 
+reedda01 , Davon Reed, error in playoff game logs 
+reedwi02 , Willie Reed, error in playoff game logs 
+ricegl02 , Glen Rice, error in playoff game logs 
+richama01 , Malachi Richardson, error in playoff game logs 
+shengto01 , Tornike Shengelia, error in playoff game logs 
+singlch01 , Chris Singleton, error in playoff game logs 
+slatere01 , Reggie Slater, error in regular season game logs 
