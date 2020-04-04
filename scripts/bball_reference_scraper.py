@@ -90,8 +90,6 @@ examples of bball reference url structure:
 # https://www.basketball-reference.com/players/a/abdelal01/gamelog-playoffs-advanced/
 """
 
-
-
 def get_reg_season_game_logs(player_idx,letter,from_year,to_year):
     reg_season_game_logs = None
     yearly_dfs = []
