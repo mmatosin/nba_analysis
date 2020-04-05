@@ -1,0 +1,3 @@
+# ignore data/interim/consolidated_game_logs.csv
+
+data/interim/consolidated_game_logs.csv
