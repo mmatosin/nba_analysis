@@ -1,3 +1,7 @@
-# ignore data/interim/consolidated_game_logs.csv
+# https://www.atlassian.com/git/tutorials/saving-changes/gitignore
 
+# ignore data/interim/consolidated_game_logs.csv
 data/interim/consolidated_game_logs.csv
+
+# ignore anything in the final directory
+final/
