@@ -25,6 +25,7 @@ gibsojo01 , Jonathan Gibson, error in playoff game logs
 greendo01 , Donté Greene, error in playoff game logs 
 hamilju01 , Justin Hamilton, error in playoff game logs 
 hillida01 , Darrun Hilliard, error in playoff game logs 
+<<<<<<< HEAD
 inglida01 , Damien Inglis, error in playoff game logs 
 jacksde01 , Demetrius Jackson, error in playoff game logs 
 jacksfr01 , Frank Jackson, error in playoff game logs 
@@ -77,3 +78,20 @@ whiteis01 , Isaiah Whitehead, error in playoff game logs
 whittsh01 , Shayne Whittington, error in playoff game logs 
 willire02 , Reggie Williams, error in playoff game logs 
 artesro01 , Metta World Peace, error in regular season game logs 
+=======
+mykhasv01 , Sviatoslav Mykhailiuk, error in playoff game logs 
+napolpa01 , Paul Napolitano, error in regular season game logs 
+napolpa01 , Paul Napolitano, no playoff OR regular season data 
+ohlbrti01 , Tim Ohlbrecht, error in playoff game logs 
+papagge01 , Georgios Papagiannis, error in playoff game logs 
+pattoju01 , Justin Patton, error in playoff game logs 
+paytoga02 , Gary Payton, error in playoff game logs 
+portemi01 , Michael Porter, error in playoff game logs 
+poythal01 , Alex Poythress, error in playoff game logs 
+reedda01 , Davon Reed, error in playoff game logs 
+reedwi02 , Willie Reed, error in playoff game logs 
+ricegl02 , Glen Rice, error in playoff game logs 
+richama01 , Malachi Richardson, error in playoff game logs 
+shengto01 , Tornike Shengelia, error in playoff game logs 
+singlch01 , Chris Singleton, error in playoff game logs 
+>>>>>>> advanced_logs
